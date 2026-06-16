@@ -125,28 +125,6 @@ Python            ███████████████      75%
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SakibSadri&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SakibSadri/SakibSadri/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 <div align="center">
 
 ## ✨ "Turning Data into Decisions, and Insights into Impact."
